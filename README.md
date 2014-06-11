@@ -5,27 +5,27 @@ The form generate a csv file for every businesscard entry.
 You can use this information after direct in Indesign through CSV.
 
 #### Screenshot
-![Preview bc-form](https://github.com/bueroexit/bc_form/raw/master/images/vorschau.png
+![Preview bc-form](https://github.com/janstieler/bc_form/raw/master/images/vorschau.png
  "preview bc_form")
 
 ## Download
-* [Version 1.0](https://github.com/bueroexit/bc_form/archive/master.zip)
+* [Version 1.0](https://github.com/janstieler/bc_form/archive/master.zip)
 
 ## Usage
-```$ git clone https://github.com/bueroexit/bc_form.git
+```$ git clone https://github.com/janstieler/bc_form.git
 ...```
 
 ## Contributors
 
 ### Contributors on GitHub
-* [Contributors](https://github.com/bueroexit/bc_form/graphs/contributors)
+* [Contributors](https://github.com/janstieler/bc_form/graphs/contributors)
 
 ### Third party libraries
 * [Bootstrap](www.getbootstrap.com)
 * [jQuery](www.jquery.com)
 
 ## License
-* see [LICENSE](https://github.com/bueroexit/bc_form/blob/master/LICENSE.md) file
+* see [LICENSE](https://github.com/janstieler/bc_form/blob/master/LICENSE.md) file
 
 ## Version
 * Version 1.0
@@ -35,7 +35,7 @@ You can use this information after direct in Indesign through CSV.
 * Export all Scripts and CSS in external files
 
 ## How-to use this code
-* see [INSTRUCTIONS](https://github.com/bueroexit/bc_form/blob/master/INSTRUCTIONS.md) file
+* see [INSTRUCTIONS](https://github.com/janstieler/bc_form/blob/master/INSTRUCTIONS.md) file
 
 ## Contact
 #### Developer/Company
