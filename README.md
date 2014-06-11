@@ -35,7 +35,8 @@ You can use this information after direct in Indesign through CSV.
 * Export all Scripts and CSS in external files
 
 ## How-to use this code
-* see [INSTRUCTIONS](https://github.com/janstieler/bc_form/blob/master/INSTRUCTIONS.md) file
+Put the folders on your server and it shiould work direct.
+I don't assume no liability for your using. US at your own risk.
 
 ## Contact
 #### Developer/Company
