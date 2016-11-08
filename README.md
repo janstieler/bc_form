@@ -36,7 +36,7 @@ You can use this information after direct in Indesign through CSV.
 
 ## How-to use this code
 Put the folders on your server and it should work direct.
-I don't assume no liability for your using. US at your own risk.
+I don't assume no liability for your using. Use at your own risk.
 
 ## Contact
 #### Developer/Company
