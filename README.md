@@ -43,4 +43,4 @@ I don't assume no liability for your using. Use at your own risk.
 * Homepage: www.janstieler.de
 * e-mail: Contact me over Github
 
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=JanStieler&url=https://github.com/bueroexit/bc_form&title=bc_form&language=&tags=github&category=software)
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=JanStieler&url=https://github.com/janstieler/bc_form&title=bc_form&language=&tags=github&category=software)
